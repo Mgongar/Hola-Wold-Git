@@ -11,3 +11,6 @@ underline 1
 Underline 2
 =======
 
+- Letra *italica* primera forma.
+- Letra _italica_ segunda forma.
+- Letra **bold** o __strong__.
